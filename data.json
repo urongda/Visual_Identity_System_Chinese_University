@@ -1,0 +1,896 @@
+[
+    {
+        "title": "\u5317\u4eac\u79d1\u6280\u5927\u5b66",
+        "slug": 4111010008,
+        "vis": "https://70.ustb.edu.cn/tongzhigonggao/2021-12-06/277.html",
+        "website": "http://www.ustb.edu.cn/"
+    },
+    {
+        "title": "\u5b81\u590f\u5927\u5b66",
+        "slug": 4164010749,
+        "vis": "https://xcb.nxu.edu.cn/xywh/xywhsbxt.htm",
+        "website": "http://www.nxu.edu.cn"
+    },
+    {
+        "title": "\u798f\u5efa\u5e08\u8303\u5927\u5b66",
+        "slug": 4135010394,
+        "vis": "https://www.fjnu.edu.cn/29/list.htm",
+        "website": "https://www.fjnu.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66",
+        "slug": 4161010698,
+        "vis": "http://vi.xjtu.edu.cn/",
+        "website": "http://www.xjtu.edu.cn/"
+    },
+    {
+        "title": "\u5ef6\u8fb9\u5927\u5b66",
+        "slug": 4122010184,
+        "vis": null,
+        "website": "http://www.ybu.edu.cn"
+    },
+    {
+        "title": "\u5357\u4eac\u7406\u5de5\u5927\u5b66",
+        "slug": 4132010288,
+        "vis": "http://zs.njust.edu.cn/_upload/article/files/3b/d8/07e54d3a46048e73bc3f7ffbe7f7/3429cb10-f950-4191-a230-fea13eea9949.pdf",
+        "website": "http://zsb.njust.edu.cn"
+    },
+    {
+        "title": "\u798f\u5efa\u7406\u5de5\u5927\u5b66",
+        "slug": 4135010388,
+        "vis": null,
+        "website": null
+    },
+    {
+        "title": "\u56db\u5ddd\u519c\u4e1a\u5927\u5b66",
+        "slug": 4151010626,
+        "vis": null,
+        "website": "http://www.sicau.edu.cn"
+    },
+    {
+        "title": "\u54c8\u5c14\u6ee8\u5de5\u7a0b\u5927\u5b66",
+        "slug": 4123010217,
+        "vis": null,
+        "website": "http://www.hrbeu.edu.cn/"
+    },
+    {
+        "title": "\u5927\u8fde\u6d77\u4e8b\u5927\u5b66",
+        "slug": 4121010151,
+        "vis": null,
+        "website": "http://www.dlmu.edu.cn/"
+    },
+    {
+        "title": "\u534e\u4e2d\u79d1\u6280\u5927\u5b66",
+        "slug": 4142010487,
+        "vis": null,
+        "website": "http://www.hust.edu.cn/"
+    },
+    {
+        "title": "\u4e0a\u6d77\u5916\u56fd\u8bed\u5927\u5b66",
+        "slug": 4131010271,
+        "vis": "http://www.shisu.edu.cn/about/identity-guidelines",
+        "website": "http://www.shisu.edu.cn/"
+    },
+    {
+        "title": "\u6cb3\u5357\u5de5\u7a0b\u5b66\u9662",
+        "slug": 4141011517,
+        "vis": null,
+        "website": "http://www.haue.edu.cn"
+    },
+    {
+        "title": "\u7535\u5b50\u79d1\u6280\u5927\u5b66",
+        "slug": 4151010614,
+        "vis": null,
+        "website": "http://www.uestc.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5b89\u7535\u5b50\u79d1\u6280\u5927\u5b66",
+        "slug": 4161010701,
+        "vis": "http://xcb.xidian.edu.cn/info/1008/1094.htm",
+        "website": "http://www.xidian.edu.cn"
+    },
+    {
+        "title": "\u5357\u4eac\u5e08\u8303\u5927\u5b66",
+        "slug": 4132010319,
+        "vis": "http://www.njnu.edu.cn/xxgk/xbxg.htm",
+        "website": "http://www.njnu.edu.cn/"
+    },
+    {
+        "title": "\u6e56\u5357\u5927\u5b66",
+        "slug": 4143010532,
+        "vis": "http://www.hnu.edu.cn/hdgk/xywh/xh.htm",
+        "website": "http://www.hnu.cn"
+    },
+    {
+        "title": "\u897f\u5317\u5927\u5b66",
+        "slug": 4161010697,
+        "vis": "https://www.nwu.edu.cn/xxgk/xxbs/xb.htm",
+        "website": "http://www.nwu.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u653f\u6cd5\u5b66\u9662",
+        "slug": 4131011835,
+        "vis": "https://job.shupl.edu.cn/InformationDetail.aspx?XXID=694",
+        "website": "https://www.shupl.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4161010699,
+        "vis": null,
+        "website": "http://www.nwpu.edu.cn/"
+    },
+    {
+        "title": "\u4e0a\u6d77\u5927\u5b66",
+        "slug": 4131010280,
+        "vis": null,
+        "website": "http://www.shu.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u5357\u5927\u5b66",
+        "slug": 4143010533,
+        "vis": null,
+        "website": "http://www.csu.edu.cn/"
+    },
+    {
+        "title": "\u6df1\u5733\u5927\u5b66",
+        "slug": 4144010590,
+        "vis": "https://www.szu.edu.cn/xxgk/sdbs.htm",
+        "website": "https://www.szu.edu.cn/"
+    },
+    {
+        "title": "\u5357\u4eac\u4fe1\u606f\u5de5\u7a0b\u5927\u5b66",
+        "slug": 4132010300,
+        "vis": null,
+        "website": "http://www.nuist.edu.cn/newindex/index.htm"
+    },
+    {
+        "title": "\u6d59\u6c5f\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4133010337,
+        "vis": null,
+        "website": "http://www.zjut.edu.cn/"
+    },
+    {
+        "title": "\u4e1c\u5317\u6797\u4e1a\u5927\u5b66",
+        "slug": 4123010225,
+        "vis": "https://culture.nefu.edu.cn/sjsb/jbys/xxbzgf2.htm",
+        "website": "http://www.nefu.edu.cn/"
+    },
+    {
+        "title": "\u5929\u6d25\u533b\u79d1\u5927\u5b66",
+        "slug": 4112010062,
+        "vis": null,
+        "website": "http://www.tijmu.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u56fd\u653f\u6cd5\u5927\u5b66",
+        "slug": 4111010053,
+        "vis": "http://cuplsjxxsbxt.cupl.edu.cn/jcbf/bz_xhgf.htm",
+        "website": "http://www.cupl.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u56fd\u5730\u8d28\u5927\u5b66\uff08\u6b66\u6c49\uff09",
+        "slug": 4142010491,
+        "vis": null,
+        "website": null
+    },
+    {
+        "title": "\u5317\u4eac\u5316\u5de5\u5927\u5b66",
+        "slug": 4111010010,
+        "vis": "https://www.buct.edu.cn/2019/1112/c1605a20133/page.htm",
+        "website": "https://www.buct.edu.cn/main.htm"
+    },
+    {
+        "title": "\u4e2d\u56fd\u6d77\u6d0b\u5927\u5b66",
+        "slug": 4137010423,
+        "vis": "http://www.ouc.edu.cn/6698/list.htm",
+        "website": "http://www2.ouc.edu.cn/zsb"
+    },
+    {
+        "title": "\u5916\u4ea4\u5b66\u9662",
+        "slug": 4111010040,
+        "vis": null,
+        "website": "http://www.cfau.edu.cn"
+    },
+    {
+        "title": "\u5e7f\u5dde\u4e2d\u533b\u836f\u5927\u5b66",
+        "slug": 4144010572,
+        "vis": "http://xcb.gzucm.edu.cn/info/1013/1192.htm",
+        "website": "http://www.gzucm.edu.cn/"
+    },
+    {
+        "title": "\u82cf\u5dde\u5927\u5b66",
+        "slug": 4132010285,
+        "vis": "http://www.suda.edu.cn/portal/uis.html",
+        "website": "http://zsb.suda.edu.cn"
+    },
+    {
+        "title": "\u53a6\u95e8\u5927\u5b66",
+        "slug": 4135010384,
+        "vis": "https://www.xmu.edu.cn/sdgl/xxbs.htm",
+        "website": "https://www.xmu.edu.cn/"
+    },
+    {
+        "title": "\u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4123010213,
+        "vis": "http://www.hit.edu.cn/240/list.htm",
+        "website": "http://www.hit.edu.cn"
+    },
+    {
+        "title": "\u4e91\u5357\u5927\u5b66",
+        "slug": 4153010673,
+        "vis": "https://www.ynu.edu.cn/xxgk/sbyd.htm",
+        "website": "http://www.ynu.edu.cn/"
+    },
+    {
+        "title": "\u4e1c\u5317\u5927\u5b66",
+        "slug": 4121010145,
+        "vis": "https://www.neu.edu.cn/xygk/ddbs.htm",
+        "website": "http://www.neu.edu.cn"
+    },
+    {
+        "title": "\u590d\u65e6\u5927\u5b66",
+        "slug": 4131010246,
+        "vis": "https://www.fudan.edu.cn/451/list.htm",
+        "website": "http://www.fudan.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u6d77\u4e8b\u5927\u5b66",
+        "slug": 4131010254,
+        "vis": null,
+        "website": "http://www.shmtu.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u534e\u4e1c\uff09",
+        "slug": 4137010425,
+        "vis": "https://www.upc.edu.cn/xygk/xywh.htm",
+        "website": "https://www.upc.edu.cn/index.htm"
+    },
+    {
+        "title": "\u5929\u6d25\u5927\u5b66",
+        "slug": 4112010056,
+        "vis": null,
+        "website": "http://www.tju.edu.cn/"
+    },
+    {
+        "title": "\u534e\u5357\u7406\u5de5\u5927\u5b66",
+        "slug": 4144010561,
+        "vis": "https://www.scut.edu.cn/new/9017/list.htm",
+        "website": "http://www.scut.edu.cn/admission/"
+    },
+    {
+        "title": "\u5b81\u6ce2\u5927\u5b66",
+        "slug": 4133011646,
+        "vis": null,
+        "website": "http://www.nbu.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u620f\u5267\u5b66\u9662",
+        "slug": 4131010279,
+        "vis": null,
+        "website": "http://www.sta.edu.cn/"
+    },
+    {
+        "title": "\u6b66\u6c49\u7406\u5de5\u5927\u5b66",
+        "slug": 4142010497,
+        "vis": null,
+        "website": "https://www.whut.edu.cn/"
+    },
+    {
+        "title": "\u5bf9\u5916\u7ecf\u6d4e\u8d38\u6613\u5927\u5b66",
+        "slug": 4111010036,
+        "vis": "http://www.uibe.edu.cn/xywh/xhxq/index.htm",
+        "website": "http://www.uibe.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u56fd\u77f3\u6cb9\u5927\u5b66\uff08\u5317\u4eac\uff09",
+        "slug": 4111011414,
+        "vis": null,
+        "website": "http://www.cup.edu.cn/"
+    },
+    {
+        "title": "\u5357\u4eac\u5927\u5b66",
+        "slug": 4132010284,
+        "vis": "https://www.nju.edu.cn/ndgk/ndbs.htm",
+        "website": "http://www.nju.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u5357\u8d22\u7ecf\u653f\u6cd5\u5927\u5b66",
+        "slug": 4142010520,
+        "vis": "http://www.zuel.edu.cn/motto_ui/",
+        "website": "http://www1.zuel.edu.cn/department/xgb/zskd.htm"
+    },
+    {
+        "title": "\u6d77\u5357\u5927\u5b66",
+        "slug": 4146010589,
+        "vis": "https://www.hainanu.edu.cn/hdgk1/xxbs.htm",
+        "website": "https://www.hainanu.edu.cn/"
+    },
+    {
+        "title": "\u534e\u5357\u5e08\u8303\u5927\u5b66",
+        "slug": 4144010574,
+        "vis": "http://www.scnu.edu.cn/a/20150906/2.html",
+        "website": "http://zsb.scnu.edu.cn/"
+    },
+    {
+        "title": "\u5409\u6797\u5927\u5b66",
+        "slug": 4122010183,
+        "vis": "https://www.jlu.edu.cn/xxgk/xxbs.htm",
+        "website": "http://www.jlu.edu.cn/newjlu/"
+    },
+    {
+        "title": "\u5357\u4eac\u90ae\u7535\u5927\u5b66",
+        "slug": 4132010293,
+        "vis": "http://www.njupt.edu.cn/12/list.htm",
+        "website": "http://www.njupt.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u56fd\u519c\u4e1a\u5927\u5b66",
+        "slug": 4111010019,
+        "vis": "https://www.cau.edu.cn/xxgk/whbz/sjsbxt/index.htm",
+        "website": "http://www.cau.edu.cn/"
+    },
+    {
+        "title": "\u957f\u5b89\u5927\u5b66",
+        "slug": 4161010710,
+        "vis": null,
+        "website": "http://www.chd.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4111010005,
+        "vis": "https://www.bjut.edu.cn/dxwh/gdbs1.htm",
+        "website": "http://www.bjut.edu.cn"
+    },
+    {
+        "title": "\u897f\u5357\u6c11\u65cf\u5927\u5b66",
+        "slug": 4151010656,
+        "vis": null,
+        "website": "http://www.swun.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u5c71\u5927\u5b66",
+        "slug": 4144010558,
+        "vis": null,
+        "website": "http://www.sysu.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u592e\u97f3\u4e50\u5b66\u9662",
+        "slug": 4111010045,
+        "vis": null,
+        "website": "http://www.ccom.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u56fd\u4eba\u6c11\u5927\u5b66",
+        "slug": 4111010002,
+        "vis": "http://ifc.ruc.edu.cn/xyfw/xzzq/fdc01fd52ea0419ab70e7ff256c4f1bd.htm",
+        "website": "http://www.ruc.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u5357\u6c11\u65cf\u5927\u5b66",
+        "slug": 4142010524,
+        "vis": null,
+        "website": "http://www.scuec.edu.cn/"
+    },
+    {
+        "title": "\u4e0a\u6d77\u4e2d\u533b\u836f\u5927\u5b66",
+        "slug": 4131010268,
+        "vis": "https://www.shutcm.edu.cn/196/list.htm",
+        "website": "http://ygzs.shutcm.edu.cn/"
+    },
+    {
+        "title": "\u5357\u660c\u5927\u5b66",
+        "slug": 4136010403,
+        "vis": "https://www.ncu.edu.cn/xxgk/xxxh.htm",
+        "website": "https://www.ncu.edu.cn/"
+    },
+    {
+        "title": "\u534e\u4e1c\u7406\u5de5\u5927\u5b66",
+        "slug": 4131010251,
+        "vis": "http://xiaoban.ecust.edu.cn/10389/list.htm",
+        "website": "http://www.ecust.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u5927\u5b66",
+        "slug": 4111010001,
+        "vis": "https://vim.pku.edu.cn/xzzq/index.htm",
+        "website": "http://www.pku.edu.cn"
+    },
+    {
+        "title": "\u5c71\u4e1c\u5927\u5b66",
+        "slug": 4137010422,
+        "vis": null,
+        "website": "http://www.sdu.edu.cn/"
+    },
+    {
+        "title": "\u798f\u5dde\u5927\u5b66",
+        "slug": 4135010386,
+        "vis": null,
+        "website": "http://www.fzu.edu.cn/"
+    },
+    {
+        "title": "\u540c\u6d4e\u5927\u5b66",
+        "slug": 4131010247,
+        "vis": "https://www.tongji.edu.cn/xxgk1/xxbs1.htm",
+        "website": "http://www.tongji.edu.cn"
+    },
+    {
+        "title": "\u592a\u539f\u7406\u5de5\u5927\u5b66",
+        "slug": 4114010112,
+        "vis": "https://www.tyut.edu.cn/xxgk1/xxbs.htm",
+        "website": "https://www.tyut.edu.cn/"
+    },
+    {
+        "title": "\u5929\u6d25\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4112010058,
+        "vis": null,
+        "website": "http://www.tjpu.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u6797\u4e1a\u5927\u5b66",
+        "slug": 4111010022,
+        "vis": "https://vi.bjfu.edu.cn/",
+        "website": "https://www.bjfu.edu.cn/"
+    },
+    {
+        "title": "\u6e56\u5317\u4e2d\u533b\u836f\u5927\u5b66",
+        "slug": 4142010507,
+        "vis": null,
+        "website": "http://www.hbtcm.edu.cn"
+    },
+    {
+        "title": "\u6210\u90fd\u7406\u5de5\u5927\u5b66",
+        "slug": 4151010616,
+        "vis": null,
+        "website": "https://www.cdut.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66",
+        "slug": 4134010358,
+        "vis": null,
+        "website": "http://www.ustc.edu.cn/"
+    },
+    {
+        "title": "\u5357\u4eac\u519c\u4e1a\u5927\u5b66",
+        "slug": 4132010307,
+        "vis": "http://www.njau.edu.cn/xxwxh/list.htm",
+        "website": "https://www.njau.edu.cn/"
+    },
+    {
+        "title": "\u6c5f\u5357\u5927\u5b66",
+        "slug": 4132010295,
+        "vis": "http://www.jiangnan.edu.cn/xxgk/xxbs.htm",
+        "website": "http://www.jiangnan.edu.cn/"
+    },
+    {
+        "title": "\u90d1\u5dde\u5927\u5b66",
+        "slug": 4141010459,
+        "vis": "http://www.zzu.edu.cn/xxgk/whbs.htm",
+        "website": "http://www.zzu.edu.cn"
+    },
+    {
+        "title": "\u534e\u4e1c\u5e08\u8303\u5927\u5b66",
+        "slug": 4131010269,
+        "vis": null,
+        "website": "http://www.ecnu.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66",
+        "slug": 4111010034,
+        "vis": "https://www.cufe.edu.cn/info/1033/1072.htm",
+        "website": "http://www.cufe.edu.cn"
+    },
+    {
+        "title": "\u5317\u4eac\u4ea4\u901a\u5927\u5b66",
+        "slug": 4111010004,
+        "vis": null,
+        "website": "http://www.bjtu.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66",
+        "slug": 4131010248,
+        "vis": "http://vi.sjtu.edu.cn/",
+        "website": "http://www.sjtu.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u56fd\u77ff\u4e1a\u5927\u5b66",
+        "slug": 4132010290,
+        "vis": null,
+        "website": "http://www.cumt.edu.cn"
+    },
+    {
+        "title": "\u897f\u85cf\u5927\u5b66",
+        "slug": 4154010694,
+        "vis": null,
+        "website": "http://www.utibet.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u56fd\u836f\u79d1\u5927\u5b66",
+        "slug": 4132010316,
+        "vis": "https://www.cpu.edu.cn/11463/list.htm",
+        "website": "http://www.cpu.edu.cn"
+    },
+    {
+        "title": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4134010359,
+        "vis": null,
+        "website": "http://www.hfut.edu.cn/ch/"
+    },
+    {
+        "title": "\u6b66\u6c49\u5927\u5b66",
+        "slug": 4142010486,
+        "vis": "http://www.whu.edu.cn/xxgk/wdbs.htm",
+        "website": "http://www.whu.edu.cn/"
+    },
+    {
+        "title": "\u9752\u5c9b\u7406\u5de5\u5927\u5b66",
+        "slug": 4137010429,
+        "vis": null,
+        "website": "http://www.qtech.edu.cn"
+    },
+    {
+        "title": "\u534e\u5317\u7535\u529b\u5927\u5b66",
+        "slug": 4111010054,
+        "vis": "https://www.ncepu.edu.cn/xxgk2/xb/index.htm",
+        "website": "http://www.ncepu.edu.cn"
+    },
+    {
+        "title": "\u5357\u4eac\u6797\u4e1a\u5927\u5b66",
+        "slug": 4132010298,
+        "vis": "https://www.njfu.edu.cn/xywh/xh/index.html",
+        "website": "http://www.njfu.edu.cn/"
+    },
+    {
+        "title": "\u66a8\u5357\u5927\u5b66",
+        "slug": 4144010559,
+        "vis": null,
+        "website": "http://www.jnu.edu.cn"
+    },
+    {
+        "title": "\u534e\u4e2d\u519c\u4e1a\u5927\u5b66",
+        "slug": 4142010504,
+        "vis": "http://xchb.hzau.edu.cn/info/1023/1115.htm",
+        "website": "https://www.hzau.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u5916\u56fd\u8bed\u5927\u5b66",
+        "slug": 4111010030,
+        "vis": "https://www.bfsu.edu.cn/logoandsong",
+        "website": "http://www.bfsu.edu.cn/"
+    },
+    {
+        "title": "\u8d35\u5dde\u5e08\u8303\u5927\u5b66",
+        "slug": 4152010663,
+        "vis": null,
+        "website": "http://www.gznu.edu.cn"
+    },
+    {
+        "title": "\u6b66\u6c49\u79d1\u6280\u5927\u5b66",
+        "slug": 4142010488,
+        "vis": null,
+        "website": "http://www.wust.edu.cn/default.html"
+    },
+    {
+        "title": "\u9655\u897f\u5e08\u8303\u5927\u5b66",
+        "slug": 4161010718,
+        "vis": "http://www.snnu.edu.cn/xxgk/sdbs.htm",
+        "website": "http://www.snnu.edu.cn"
+    },
+    {
+        "title": "\u5170\u5dde\u5927\u5b66",
+        "slug": 4162010730,
+        "vis": "http://www.lzu.edu.cn/static/xiaohui/",
+        "website": "http://www.lzu.edu.cn/"
+    },
+    {
+        "title": "\u4e1c\u5317\u5e08\u8303\u5927\u5b66",
+        "slug": 4122010200,
+        "vis": "http://sjxxsbxt.nenu.edu.cn/",
+        "website": "http://www.nenu.edu.cn/"
+    },
+    {
+        "title": "\u5357\u4eac\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4132010291,
+        "vis": null,
+        "website": "http://www.njtech.edu.cn"
+    },
+    {
+        "title": "\u5357\u5f00\u5927\u5b66",
+        "slug": 4112010055,
+        "vis": null,
+        "website": "http://www.nankai.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u90ae\u7535\u5927\u5b66",
+        "slug": 4111010013,
+        "vis": "https://www.bupt.edu.cn/bygk/zjby/bywh.htm",
+        "website": "http://www.bupt.edu.cn/"
+    },
+    {
+        "title": "\u5927\u8fde\u7406\u5de5\u5927\u5b66",
+        "slug": 4121010141,
+        "vis": null,
+        "website": "http://www.dlut.edu.cn/"
+    },
+    {
+        "title": "\u4e0a\u6d77\u5546\u5b66\u9662",
+        "slug": 4131012050,
+        "vis": null,
+        "website": "http://www.sbs.edu.cn/"
+    },
+    {
+        "title": "\u9996\u90fd\u5e08\u8303\u5927\u5b66",
+        "slug": 4111010028,
+        "vis": "https://www.cnu.edu.cn/xxgk/xxbz/index.htm",
+        "website": "http://www.cnu.edu.cn/"
+    },
+    {
+        "title": "\u5185\u8499\u53e4\u5927\u5b66",
+        "slug": 4115010126,
+        "vis": "https://news.imu.edu.cn/xxVIS/VIxz/cgVI.htm",
+        "website": "http://www.imu.edu.cn/"
+    },
+    {
+        "title": "\u6cb3\u6d77\u5927\u5b66",
+        "slug": 4132010294,
+        "vis": "http://www.hhu.edu.cn/236/list.htm",
+        "website": "http://www.hhu.edu.cn"
+    },
+    {
+        "title": "\u6cb3\u5317\u5de5\u4e1a\u5927\u5b66",
+        "slug": 4113010080,
+        "vis": "https://www.hebut.edu.cn/gdgk/xxbz/index.htm",
+        "website": "http://www.hebut.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5357\u4ea4\u901a\u5927\u5b66",
+        "slug": 4151010613,
+        "vis": null,
+        "website": "http://www.swjtu.edu.cn/"
+    },
+    {
+        "title": "\u77f3\u6cb3\u5b50\u5927\u5b66",
+        "slug": 4165010759,
+        "vis": "https://www.shzu.edu.cn/64/list.htm",
+        "website": "https://www.shzu.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u592e\u6c11\u65cf\u5927\u5b66",
+        "slug": 4111010052,
+        "vis": null,
+        "website": "http://www.muc.edu.cn/"
+    },
+    {
+        "title": "\u5c71\u897f\u5927\u5b66",
+        "slug": 4114010108,
+        "vis": "https://www.sxu.edu.cn/xxgk/xxbs/index.html",
+        "website": "https://www.sxu.edu.cn/"
+    },
+    {
+        "title": "\u5b81\u6ce2\u8bfa\u4e01\u6c49\u5927\u5b66",
+        "slug": 4133016301,
+        "vis": null,
+        "website": "http://www.nottingham.edu.cn"
+    },
+    {
+        "title": "\u5357\u4eac\u4e2d\u533b\u836f\u5927\u5b66",
+        "slug": 4132010315,
+        "vis": null,
+        "website": "http://www.njutcm.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5357\u5927\u5b66",
+        "slug": 4150010635,
+        "vis": "http://dwxcbwlgzb.swu.edu.cn/info/1017/1016.htm",
+        "website": "http://www.swu.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u56fd\u4f20\u5a92\u5927\u5b66",
+        "slug": 4111010033,
+        "vis": null,
+        "website": "http://www.cuc.edu.cn"
+    },
+    {
+        "title": "\u6e56\u5317\u5927\u5b66",
+        "slug": 4142010512,
+        "vis": null,
+        "website": "http://zsxx.hubu.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "slug": 4111010006,
+        "vis": "https://www.buaa.edu.cn/bhgk/jrbh/bhxh.htm",
+        "website": "https://www.buaa.edu.cn"
+    },
+    {
+        "title": "\u4e2d\u56fd\u7f8e\u672f\u5b66\u9662",
+        "slug": 4133010355,
+        "vis": null,
+        "website": "http://www.caa.edu.cn"
+    },
+    {
+        "title": "\u5e7f\u897f\u5927\u5b66",
+        "slug": 4145010593,
+        "vis": null,
+        "website": "http://zs.gxu.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u5bf9\u5916\u7ecf\u8d38\u5927\u5b66",
+        "slug": 4131010273,
+        "vis": null,
+        "website": "http://zhaosheng.suibe.edu.cn/"
+    },
+    {
+        "title": "\u91cd\u5e86\u5927\u5b66",
+        "slug": 4150010611,
+        "vis": "https://www.cqu.edu.cn/xqgk/xxjj.htm",
+        "website": "http://www.cqu.edu.cn/"
+    },
+    {
+        "title": "\u9752\u6d77\u5927\u5b66",
+        "slug": 4163010743,
+        "vis": "https://www.qhu.edu.cn/xxgk/qdbz/index.htm",
+        "website": "https://www.qhu.edu.cn"
+    },
+    {
+        "title": "\u6e56\u5357\u5e08\u8303\u5927\u5b66",
+        "slug": 4143010542,
+        "vis": null,
+        "website": "http://www.hunnu.edu.cn/"
+    },
+    {
+        "title": "\u8d35\u5dde\u5927\u5b66",
+        "slug": 4152010657,
+        "vis": "http://www.gzu.edu.cn/226/list.htm",
+        "website": "http://www.gzu.edu.cn"
+    },
+    {
+        "title": "\u6c5f\u897f\u5e08\u8303\u5927\u5b66",
+        "slug": 4136010414,
+        "vis": null,
+        "website": "http://zs.jxnu.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5357\u8d22\u7ecf\u5927\u5b66",
+        "slug": 4151010651,
+        "vis": null,
+        "website": "http://www.swufe.edu.cn"
+    },
+    {
+        "title": "\u6d59\u6c5f\u5927\u5b66",
+        "slug": 4133010335,
+        "vis": "http://www.zju.edu.cn/572/list.htm",
+        "website": "http://www.zju.edu.cn/"
+    },
+    {
+        "title": "\u4e0a\u6d77\u6d77\u6d0b\u5927\u5b66",
+        "slug": 4131010264,
+        "vis": null,
+        "website": "http://www.shfu.edu.cn"
+    },
+    {
+        "title": "\u56db\u5ddd\u5927\u5b66",
+        "slug": 4151010610,
+        "vis": "http://www.scu.edu.cn/xxgknew/cdbs/xm.htm",
+        "website": "http://www.scu.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u8d22\u7ecf\u5927\u5b66",
+        "slug": 4131010272,
+        "vis": null,
+        "website": "http://www.shufe.edu.cn"
+    },
+    {
+        "title": "\u6cb3\u5317\u79d1\u6280\u5927\u5b66",
+        "slug": 4113010082,
+        "vis": null,
+        "website": "http://www.hebust.edu.cn"
+    },
+    {
+        "title": "\u5317\u4eac\u5e08\u8303\u5927\u5b66",
+        "slug": 4111010027,
+        "vis": "https://xcb.bnu.edu.cn/fwzn/xzzx/",
+        "website": "http://www.bnu.edu.cn"
+    },
+    {
+        "title": "\u5317\u4eac\u4e2d\u533b\u836f\u5927\u5b66",
+        "slug": 4111010026,
+        "vis": "https://www.bucm.edu.cn/jblm/xxgk/xxsb/index.htm",
+        "website": "http://www.bucm.edu.cn"
+    },
+    {
+        "title": "\u5c71\u897f\u8d22\u7ecf\u5927\u5b66",
+        "slug": 4114010125,
+        "vis": null,
+        "website": "http://www.sxufe.edu.cn"
+    },
+    {
+        "title": "\u4e1c\u5357\u5927\u5b66",
+        "slug": 4132010286,
+        "vis": "http://www.seu.edu.cn/2017/0531/c17410a190411/page.htm",
+        "website": "http://www.seu.edu.cn/"
+    },
+    {
+        "title": "\u897f\u5317\u519c\u6797\u79d1\u6280\u5927\u5b66",
+        "slug": 4161010712,
+        "vis": "http://xj.nwsuaf.edu.cn/xxsbxt/27800.htm",
+        "website": "http://www.nwsuaf.edu.cn"
+    },
+    {
+        "title": "\u5317\u4eac\u4f53\u80b2\u5927\u5b66",
+        "slug": 4111010043,
+        "vis": null,
+        "website": "http://www.bsu.edu.cn"
+    },
+    {
+        "title": "\u4e1c\u534e\u5927\u5b66",
+        "slug": 4131010255,
+        "vis": "http://www.dhu.edu.cn/5952/list.htm",
+        "website": "http://www.dhu.edu.cn/"
+    },
+    {
+        "title": "\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u9662\u5927\u5b66",
+        "slug": 4111014596,
+        "vis": "https://www.ucass.edu.cn/xxgk1/xxbs.htm",
+        "website": "https://www.ucass.edu.cn/index.htm"
+    },
+    {
+        "title": "\u4e0a\u6d77\u4f53\u80b2\u5927\u5b66",
+        "slug": 4131010277,
+        "vis": null,
+        "website": null
+    },
+    {
+        "title": "\u5408\u80a5\u5b66\u9662",
+        "slug": 4134011059,
+        "vis": null,
+        "website": "http://www.hfuu.edu.cn/"
+    },
+    {
+        "title": "\u6d1b\u9633\u7406\u5de5\u5b66\u9662",
+        "slug": 4141011070,
+        "vis": null,
+        "website": "http://zs.lit.edu.cn"
+    },
+    {
+        "title": "\u6e05\u534e\u5927\u5b66",
+        "slug": 4111010003,
+        "vis": "https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm",
+        "website": "http://www.tsinghua.edu.cn"
+    },
+    {
+        "title": "\u4e0a\u6d77\u7406\u5de5\u5927\u5b66",
+        "slug": 4131010252,
+        "vis": null,
+        "website": "http://www.usst.edu.cn/"
+    },
+    {
+        "title": "\u4e0a\u6d77\u97f3\u4e50\u5b66\u9662",
+        "slug": 4131010278,
+        "vis": "https://www.shcmusic.edu.cn/sybs/list.htm",
+        "website": "http://www.shcmusic.edu.cn"
+    },
+    {
+        "title": "\u534e\u4e2d\u5e08\u8303\u5927\u5b66",
+        "slug": 4142010511,
+        "vis": "https://www.ccnu.edu.cn/xxgk/hdbs.htm",
+        "website": "http://www.ccnu.edu.cn/"
+    },
+    {
+        "title": "\u5b89\u5fbd\u5927\u5b66",
+        "slug": 4134010357,
+        "vis": "http://www.ahu.edu.cn/149/list.htm",
+        "website": "http://www.ahu.edu.cn/"
+    },
+    {
+        "title": "\u5317\u4eac\u7406\u5de5\u5927\u5b66",
+        "slug": 4111010007,
+        "vis": "https://www.bit.edu.cn/gbxxgk/dqgz_sjb/vixx/index.htm",
+        "website": "https://www.bit.edu.cn"
+    },
+    {
+        "title": "\u65b0\u7586\u5927\u5b66",
+        "slug": 4165010755,
+        "vis": "http://www.xju.edu.cn/xxgk/xdbs.htm",
+        "website": "http://www.xju.edu.cn"
+    }
+]
