@@ -1,0 +1,10 @@
+{
+	"name": "vis-links-of-chinese-universities",
+	"version": "0.0.1",
+	"dependencies": {
+		"github-readme-to-html": "^1.0.10"
+	},
+	"scripts": {
+		"html": "npx github-readme-to-html"
+	}
+}
